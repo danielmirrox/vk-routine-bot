@@ -1,0 +1,22 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Matplotlib and other temp folders
+.matplotlib/
+
+# System files
+.DS_Store
+Thumbs.db
+
+.cfg
+.env
